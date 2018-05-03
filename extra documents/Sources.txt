@@ -1,0 +1,71 @@
+Sources
+
+Scene0_ Welcome
+
+Background     got from 	https://opengameart.org/content/hd-multi-layer-parallex-background-samples-of-glitch-game-assets
+Zombie animation got from	https://opengameart.org/content/zombie-animation
+Font used through whole game got from 	http://www.dafont.com/quiet-horror-story.font
+Code used for text box learnt from https://www.youtube.com/watch?v=ehmBIP5sj0M
+Font used for text box’s http://www.dafont.com/walkiria.font
+
+Scene0.5_ Explain
+Wsad keys image found http://agario.daniguardiola.me/
+Snes controller image found http://nintendo.wikia.com/wiki/File:SNES_controller.png
+
+
+Scene1_GameOver
+
+Background (Blue screen) got from http://chijoori.ir/wp-content/uploads/2016/05/x5bsod.png.pagespeed.gp%20jp%20jw%20pj%20js%20rj%20rp%20rw%20ri%20cp%20md.ic.vYS2_0xBFt.png 
+Music wrote by myself 
+
+Level1
+
+Background (Parallax city scape)	got from (Modified as added layer of trees in background to match 2nd lvl)  http://opengameart.org/content/industrial-parallax-background 
+	
+Code for Para laxing learnt from	 https://www.youtube.com/watch?v=30OuWY1UfcQ
+Hero Sprites got from 	http://lswbeast.deviantart.com/art/Zanpto-Sprite-Sheet-223506014
+Enemy Sprite got from	 https://opengameart.org/content/zombie-animation
+Music wrote by myself
+Platform Sprites got from	 https://kenney.nl/assets/platformer-pack-industrial
+Fire Sprite got from 	https://opengameart.org/content/wgstudio-fire-animation-loop
+Points windows got from 	https://pixabay.com/en/windows-logo-twist-307586/
+Player controller script made my own using mats as a guide but added mouse and snes controller code and also wsad controls from keyboard so direction arrows work also. 
+The linux bomb sprite was got from https://wiki.themanaworld.org/index.php/User:Fother/Pixel_Art#Penguin
+Pause menu script I learnt from	 https://www.youtube.com/watch?v=Wrelb5WBnoQ
+Doors Sprite got from	 https://opengameart.org/content/doors
+
+Zombie dying sound got from 	http://soundbible.com/828-Blood-Squirt.html
+Penguin being shot 	http://soundbible.com/1443-Peacock-Bird.html
+Key used on all levels http://vignette1.wikia.nocookie.net/fantendo/images/8/82/SuperKeySMSJ.png/revision/latest?cb=20100619173736
+
+
+Level2
+Background image found http://www.wallpapersshock.com/free-twilight-town-hd-wallpapers-download/
+Background parallax made with https://opengameart.org/content/hd-multi-layer-parallex-background-samples-of-glitch-game-assets
+Female Zombie Sprite found http://www.gameart2d.com/the-zombies-free-sprites.html
+Fire Sprite found https://opengameart.org/content/wgstudio-fire-animation-loop
+Coin from https://opengameart.org/content/animated-coins
+Sound from collecting coin https://www.youtube.com/watch?v=FzjtPtOH-Hg
+
+
+
+
+
+End of level door  https://opengameart.org/content/castle-door
+Level3
+Linux server image got from 	 https://webengine.one/img/serv-linux.png
+Background parallax made with https://opengameart.org/content/hd-multi-layer-parallex-background-samples-of-glitch-game-assets
+Male Zombie Sprite found http://www.gameart2d.com/the-zombies-free-sprites.html
+
+Where I found help ideas for scripts 
+
+Paralax background https://www.youtube.com/watch?v=30OuWY1UfcQ
+Boss Script https://www.youtube.com/watch?v=T-rCJrU1Cqs&t=860s
+Enemy/boss health manager 
+Fade between levels scripts some ideas came from https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/adding-ui-level-transitions?playlist=17150
+Falling platform script https://www.youtube.com/watch?v=m3alCI5yTHY
+
+
+
+
+
